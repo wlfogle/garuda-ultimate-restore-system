@@ -1,5 +1,5 @@
 # Ultimate Package Backup Script
-BACKUP_DIR="/home/lou/backups/packages"
+BACKUP_DIR="./user_home/backups/packages"
 DATE=$(date +%Y%m%d_%H%M%S)
 
 echo "Starting package backup - $DATE"

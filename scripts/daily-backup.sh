@@ -1,5 +1,5 @@
 # Daily Automated Backup Script
-BACKUP_DIR="/home/lou/backups"
+BACKUP_DIR="./user_home/backups"
 LOG_FILE="$BACKUP_DIR/backup.log"
 DATE=$(date '+%Y-%m-%d %H:%M:%S')
 

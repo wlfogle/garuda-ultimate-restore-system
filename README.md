@@ -1,8 +1,10 @@
 # 🛡️ Garuda Linux Ultimate Restore System
 
 > **The most comprehensive, bulletproof backup and restore solution for Garuda Linux**
+> 
+> **🚨 v2.0.0 CRITICAL UPDATE**: Fixed major design flaw - backups now use external storage by default and survive system reinstalls!
 
-A complete disaster recovery system that provides multiple layers of protection against system failures, data corruption, package conflicts, and hardware issues.
+A complete disaster recovery system that provides multiple layers of protection against system failures, data corruption, package conflicts, and hardware issues. **Now with external storage priority to ensure your backups survive complete system reinstalls.**
 
 ## ✨ Features
 
@@ -13,7 +15,8 @@ A complete disaster recovery system that provides multiple layers of protection 
 - 🚑 **Emergency Recovery** - Boot repair and disaster recovery tools
 - 🎯 **One-Click Restore** - Easy-to-use restoration interface
 - 📊 **Status Monitoring** - Check backup health and history
-- 💾 **External Drive Sync** - Automatic off-site backups
+- 💾 **External Storage Priority** - Backups survive system reinstalls
+- 🔍 **Smart Drive Detection** - Automatically finds external drives
 
 ## 🚀 Quick Start
 
